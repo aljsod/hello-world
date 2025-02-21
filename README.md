@@ -1,7 +1,7 @@
 # hello-world
 This repository is for practicing the Github Flow 
 # Project Title
-** Hello _World_ example**
+**Hello _World_ example**
 # Description
 1. First Thing
 2. Second Thing
